@@ -1,7 +1,7 @@
 # Lorenz_Attractor
 
-Axis Rotation Animate -> Available on Solve_ivp
-Drawing Animate -> Available on Odeint
+#Axis Rotation Animate -> Available on Solve_ivp
+#Drawing Animate -> Available on Odeint
 
 Reference
 Odeint : https://github.com/gboeing/lorenz-system 
